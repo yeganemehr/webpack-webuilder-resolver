@@ -1,0 +1,12 @@
+{
+    "files": [
+		"index.ts"
+    ],
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es2016",
+		"sourceMap": false,
+		"removeComments": true,
+		"declaration":true
+    }
+}
